@@ -1,4 +1,4 @@
-# Traffic Data Analysis & Machine Learning Notebooks
+# Data Analysis & Machine Learning Notebooks
 
 This repository contains a collection of **Python and Jupyter Notebook–based implementations** developed as part of my academic and self-learning journey in **Civil Engineering, Transportation Engineering, and Data Analytics**.
 
@@ -8,7 +8,7 @@ The notebooks demonstrate applications of **data analysis, visualization, time-s
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 - **Undergrad Thesis/**  
   Research work related to my undergraduate thesis, including
@@ -66,7 +66,7 @@ The notebooks demonstrate applications of **data analysis, visualization, time-s
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Python  
 - NumPy  
